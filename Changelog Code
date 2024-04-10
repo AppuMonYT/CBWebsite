@@ -1,0 +1,22 @@
+<!-- wp:html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CB-Stats Changes</title>
+<style>
+  p {
+    font-size: 150%; /* 150% bigger */
+  }
+</style>
+</head>
+<body>
+<p>*Cleaned up CB-Stats.</p>
+<p>*Changed Changelog style.</p>
+<p>*Albuxx changes reverted.</p>
+<p>*Changed source code provider from pastebin to Github.</p>
+</body>
+</html>
+
+<!-- /wp:html -->

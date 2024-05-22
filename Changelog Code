@@ -1,22 +1,13 @@
-<!-- wp:html -->
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>CB-Stats Changes</title>
-<style>
-  p {
-    font-size: 150%; /* 150% bigger */
-  }
-</style>
-</head>
-<body>
-<p>*Cleaned up CB-Stats.</p>
-<p>*Changed Changelog style.</p>
-<p>*Albuxx changes reverted.</p>
-<p>*Changed source code provider from pastebin to Github.</p>
-</body>
-</html>
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><!-- wp:paragraph {"className":"is-style-default"} -->
+<p class="is-style-default">*Changelog finally gets the same treatment as the members tab lol</p>
+<!-- /wp:paragraph -->
 
-<!-- /wp:html -->
+<!-- wp:paragraph -->
+<p>*Links got moved up... ah actually never mind that looks like shit REVERT</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>*Github source code updated after 5 sextillion years</p>
+<!-- /wp:paragraph --></blockquote>
+<!-- /wp:quote -->

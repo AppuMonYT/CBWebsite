@@ -1,14 +1,14 @@
+<!-- wp:spacer {"height":"49px"} -->
+<div style="height:49px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
 <!-- wp:heading {"textAlign":"center","level":1} -->
-<h1 class="wp-block-heading has-text-align-center"><strong>CB-Stats&#x2122; (WIP)</strong></h1>
+<h1 class="wp-block-heading has-text-align-center">CB-Stats&#x2122;</h1>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center"} -->
 <p class="has-text-align-center">The current statistics of the group:</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:image {"id":105,"sizeSlug":"large","linkDestination":"none","style":{"color":{"duotone":"unset"}}} -->
-<figure class="wp-block-image size-large"><img src="https://coolbuddies.great-site.net/wp-content/uploads/2024/03/Project-CB-Stats-1024x1024.jpg" alt="" class="wp-image-105"/></figure>
-<!-- /wp:image -->
 
 <!-- wp:html -->
 <script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer></script>
@@ -61,9 +61,13 @@
 </html>
 <!-- /wp:html -->
 
-<!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center">     <strong>The CB Graveyard</strong> &#x1faa6;:</p>
-<!-- /wp:paragraph -->
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">   <strong>The CB Graveyard</strong> &#x1faa6;:</h2>
+<!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center"} -->
 <p class="has-text-align-center">&#x1faa6;Ashwagosh</p>
@@ -88,12 +92,3 @@
 <!-- wp:paragraph {"align":"center"} -->
 <p class="has-text-align-center">(might be a snitch)</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:spacer -->
-<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:html -->
-<script async src="https://talk.hyvor.com/embed/embed.js" type="module"></script>
-<hyvor-talk-comments website-id="10796" page-id=""></hyvor-talk-comments>
-<!-- /wp:html -->

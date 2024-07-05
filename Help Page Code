@@ -1,0 +1,27 @@
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Help:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><!-- wp:details {"fontSize":"x-large"} -->
+<details class="wp-block-details has-x-large-font-size"><summary>The main page image wont load </summary><!-- wp:paragraph {"placeholder":"Type / to add a hidden block","fontSize":"large"} -->
+<p class="has-large-font-size">This is a known problem for browsers that are based on the Gecko engine (ie Firefox and its forks). Try enabling https-only mode (<a href="https://support.mozilla.org/en-US/kb/https-only-prefs" data-type="link" data-id="https://support.mozilla.org/en-US/kb/https-only-prefs">how</a>) or using a Chromium based browser like Brave, Arc, Vivaldi, Chrome or Edge.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details {"fontSize":"x-large"} -->
+<details class="wp-block-details has-x-large-font-size"><summary>What browser do i have?</summary><!-- wp:html -->
+<iframe src="https://www.whatismybrowser.com/feature/iframe" style="border: none;"></iframe>
+<!-- /wp:html --></details>
+<!-- /wp:details -->
+
+<!-- wp:details {"fontSize":"x-large"} -->
+<details class="wp-block-details has-x-large-font-size"><summary>I still have issues! Help!</summary><!-- wp:paragraph {"placeholder":"Type / to add a hidden block"} -->
+<p>If these help-notes cant help, you can always ask NK for support!</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details --></blockquote>
+<!-- /wp:quote -->

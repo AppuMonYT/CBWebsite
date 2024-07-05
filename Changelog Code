@@ -1,13 +1,9 @@
 <!-- wp:quote -->
 <blockquote class="wp-block-quote"><!-- wp:paragraph {"className":"is-style-default"} -->
-<p class="is-style-default">*Changelog finally gets the same treatment as the members tab lol</p>
+<p class="is-style-default">*Updated SSL certificate.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>*Links got moved up... ah actually never mind that looks like shit REVERT</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>*Github source code updated after 5 sextillion years</p>
+<p>*Updated source code on github.</p>
 <!-- /wp:paragraph --></blockquote>
 <!-- /wp:quote -->
